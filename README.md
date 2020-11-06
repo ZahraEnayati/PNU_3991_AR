@@ -3,7 +3,7 @@
 ### اسم
  
 ---
-- [حساب گیت هاب](githab.com/ZahraEnayati)
+- [حساب گیت هاب](https://github.com/ZahraEnayati)
 
 - [رزومه](لینک رزومه)
 
