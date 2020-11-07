@@ -3,9 +3,9 @@
 ### زهرا عنایتی
  
 - [حساب گیت هاب](https://github.com/ZahraEnayati)
-- [روزمه](https://ZahraEnayati.github.io)
+- [رزومه](https://ZahraEnayati.github.io)
 
-- [SOP]()
+- [SOP](https://ZahraEnayati.github.io/SOP/)
 
 ## Winter Semester Courses 1399/2020
 
