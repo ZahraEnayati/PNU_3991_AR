@@ -6,7 +6,7 @@
 - [رزومه](https://ZahraEnayati.github.io)
 
 - [SOP](https://ZahraEnayati.github.io/SOP/)
-- [Certificates](https://ZahraEnayati.github.io/Certificates/)
+- [Certificates](https://zahraenayati.github.io/Certificates/)
 
 ## Winter Semester Courses 1399/2020
 
